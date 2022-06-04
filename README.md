@@ -1,5 +1,8 @@
 # MODUI-Dragonfly
 MOD UI for the Dragonfly Reverb suite of plugins
+___
+
+Updated with latest revisions from MOD Devices.
 
 ___
 
